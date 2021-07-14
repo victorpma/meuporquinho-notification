@@ -1,2 +1,2 @@
 # meuporquinho-notification
-RabbitMQ consumer for triggering push notifications and emails
+RabbitMQ consumer to triggering push notifications and emails
